@@ -1,0 +1,8 @@
+nome_1 = input('digite um nome')
+#nome_2 = 'Eduar'
+
+if nome_1 == 'Abel':
+    print('iguais')
+else:
+    print('diferentes')
+
